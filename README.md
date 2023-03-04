@@ -6,13 +6,13 @@ no dependencies
 
 Used for cheating at flash mental arthmetic in the RoyalMtls Server
 
-for best results use a keyboard
+for best results use a keyboard that has a numpad
 
 to use
 
 - addition only
-- pressing enter while a number is typing adds the numbers together
-- pressing enter while number is typed resets to 0
+- pressing enter while a number is typed adds the numbers together
+- pressing enter while a number is not typed resets to 0
 - pressing q exits
 - non numerical values are ignored
 
