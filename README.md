@@ -1,12 +1,12 @@
 calc.py
 
-Orginal Author: Seinu#7854
+Original Author: Seinu#7854
 
 no dependencies 
 
-Used for cheating at flash mental arthmetic in the RoyalMtls Server
+Used for cheating at flash mental arithmetic in the RoyalMtls Server
 
-for best results use a keyboard that has a numpad
+for best results use a keyboard that has a num pad
 
 to use
 
