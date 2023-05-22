@@ -1,19 +1,22 @@
-calc.py
+**nTaku**
+----------------------------------------------------------------------------
 
-Original Author: Seinu#7854
+Simple addition calculator.
 
-no dependencies 
+Was used for MFA but is no longer used.
 
-Used for cheating at flash mental arithmetic in the RoyalMtls Server
+Left here for use if anyone wants to use it.
 
-for best results use a keyboard that has a num pad
+----------------------------------------------------------------------------
+**Usage**
 
-to use
 
-- addition only
-- pressing enter while a number is typed adds the numbers together
-- pressing enter while a number is not typed resets to 0
-- pressing q exits
-- non numerical values are ignored
+    Addition only
+    Pressing enter while a number is typed adds the numbers together
+    Pressing enter while a number is not typed resets to 0
+    Pressing q exits
+    Non numerical values are ignored
 
-Any questions or bugs, please email Seinuve@gmail.com
+----------------------------------------------------------------------------
+
+Any questions or bugs can be reported to me at [my email](mailto:Seinuve@gmail.com)
