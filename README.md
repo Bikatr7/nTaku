@@ -19,4 +19,4 @@ Left here for use if anyone wants to use it.
 
 ----------------------------------------------------------------------------
 
-Any questions or bugs can be reported to me at [my email](mailto:Seinuve@gmail.com)
+Any questions or bugs can be reported to me at [my email](mailto:Tetralon07@gmail.com)
