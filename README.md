@@ -16,7 +16,3 @@ Left here for use if anyone wants to use it.
     Pressing enter while a number is not typed resets to 0
     Pressing q exits
     Non numerical values are ignored
-
-----------------------------------------------------------------------------
-
-Any questions or bugs can be reported to me at [my email](mailto:Tetralon07@gmail.com)
